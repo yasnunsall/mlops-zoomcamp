@@ -1,3 +1,3 @@
 # mlops-zoomcamp
 
-This is an example
+This repository contains my mlops-zoomcamp notes and assignments.
